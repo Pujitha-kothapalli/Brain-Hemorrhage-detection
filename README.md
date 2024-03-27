@@ -12,7 +12,7 @@
 The Brain Hemorrhage Detection System is a web-based application designed to classify computed tomography (CT) images of brain hemorrhages. It provides a user-friendly interface for interacting with the system.
 It utilizes convolutional neural networks (CNNs) for feature extraction and classification, along with additional methods to analyze CT images and classify them based on the presence of hemorrhage.
 
-## Folder Structure
+## FolderStructure
 - **Dataset**: Contains CT scan images.
 - **Static**: Contains CSS, JavaScript, and other static files.
 - **Templates**: Contains HTML files.
