@@ -1,10 +1,18 @@
 
 # Brain Hemorrhage Detection System
+## Table of Contents
+1. [Description](#description)
+2. [Folder Structure](#folder-structure)
+3. [Dependencies](#dependencies)
+4. [Installation](#installation)
+5. [Usage](#usage)
+6. [Screenshots](#screenshots)
+
 ## Description
 The Brain Hemorrhage Detection System is a web-based application designed to classify computed tomography (CT) images of brain hemorrhages. It provides a user-friendly interface for interacting with the system.
 It utilizes convolutional neural networks (CNNs) for feature extraction and classification, along with additional methods to analyze CT images and classify them based on the presence of hemorrhage.
 
-## Folder Structure
+## FolderStructure
 - **Dataset**: Contains CT scan images.
 - **Static**: Contains CSS, JavaScript, and other static files.
 - **Templates**: Contains HTML files.
@@ -106,16 +114,13 @@ By following these steps, you can effectively use the application to upload CT s
 
 Below are screenshots of the project to provide visual context for users:
 
-1. Home Page - ![Home Page]("C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2024-01-25 214826.png")
+1. Home Page - ![home](https://github.com/Pujitha-kothapalli/Brain-Hemorrhage-detection/assets/99169462/00b73237-7f8a-4f98-8315-63a916dedf6b)
 
-2. Sign Up Page - ![Sign Up Page](link_to_image2)
+2. Sign Up Page - ![signup](https://github.com/Pujitha-kothapalli/Brain-Hemorrhage-detection/assets/99169462/86803658-d647-4b22-999c-fce48f9cec15)
 
-3. Sign In Page - ![Sign In Page](link_to_image3)
+3. Sign In Page - ![signin](https://github.com/Pujitha-kothapalli/Brain-Hemorrhage-detection/assets/99169462/8fb9c39d-374d-4467-bcdb-fb1aaf2a7b32)
 
-4. Index Page - ![Index Page](link_to_image4)
+4. Index Page - ![index](https://github.com/Pujitha-kothapalli/Brain-Hemorrhage-detection/assets/99169462/d838397b-9604-4047-a6bb-82023529bc07)
 
-5. Result Page - ![Result Page](link_to_image5)
+5. Result Page - ![result](https://github.com/Pujitha-kothapalli/Brain-Hemorrhage-detection/assets/99169462/f7200a8a-dd01-463e-82aa-9dc32aa8e274)
 
-6. Logout Page - ![Logout Page](link_to_image6)
-
-Feel free to click on the links to view the screenshots.
