@@ -2,7 +2,7 @@
 # Brain Hemorrhage Detection System
 ## Table of Contents
 1. [Description](#description)
-2. [Folder Structure](#folder-structure)
+2. [Folder Structure](#folderstructure)
 3. [Dependencies](#dependencies)
 4. [Installation](#installation)
 5. [Usage](#usage)
