@@ -122,5 +122,6 @@ Below are screenshots of the project to provide visual context for users:
 
 4. Index Page - ![index](https://github.com/Pujitha-kothapalli/Brain-Hemorrhage-detection/assets/99169462/d838397b-9604-4047-a6bb-82023529bc07)
 
-5. Result Page - ![result](https://github.com/Pujitha-kothapalli/Brain-Hemorrhage-detection/assets/99169462/f7200a8a-dd01-463e-82aa-9dc32aa8e274)
+5. Result Page - ![detected](https://github.com/Pujitha-kothapalli/Brain-Hemorrhage-detection/assets/99169462/e732e164-32be-431d-93ac-3120df5b6cf7)
+![result](https://github.com/Pujitha-kothapalli/Brain-Hemorrhage-detection/assets/99169462/f7200a8a-dd01-463e-82aa-9dc32aa8e274)
 
